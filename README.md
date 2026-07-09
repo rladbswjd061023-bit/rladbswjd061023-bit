@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=Welcome!&fontSize=45&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=yunjeong!&fontSize=45&fontColor=ffffff"/>
 </p>
 
 # 👋 안녕하세요!
 
 ### 금융권 개발 매니저를 목표로 공부하고 있는 김윤정입니다.
 
-꾸준히 배우고 성장하는 금융개발매니저가 되는 것이 목표입니다.  
+꾸준히 배우고 성장하는 금융권개발매니저가 되는 것이 큰 틀입니다.  
 현재 서경대 멋사에서 FE 웹 개발 공부를 하고 있습니다.
 
 ---
@@ -43,6 +43,6 @@
 
 ## Contact
 
-<a href="https://www.instagram.com/">
+<a href="https:///www.instagram.com/yunjeongee_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
