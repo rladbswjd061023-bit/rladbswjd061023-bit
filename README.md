@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=yunjeong!&fontSize=45&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=반가워용 김윤정입니다!!&fontSize=45&fontColor=ffffff"/>
 </p>
 
 # 👋 안녕하세요!
