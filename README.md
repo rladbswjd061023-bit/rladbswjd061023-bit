@@ -13,15 +13,15 @@
 
 ## 🙋 About Me
 
-- 🎓 서경대학교 재학
-- 📚 HTML / CSS / JavaScript 공부 중
-- ⚛ React 배우는 중
-- 🤖 AI와 웹 서비스를 활용한 공모전 진행
-- 💡 제가 모르는 흥미로운 기술 배우는 것을 좋아합니다.
+- 서경대학교 재학
+- HTML / CSS / JavaScript 공부 중
+- React 배우는 중
+- AI와 웹 서비스를 활용한 공모전 진행
+- 제가 모르는 흥미로운 기술 배우는 것을 좋아합니다!
 
 ---
 
-## 🛠 Tech Stack
+## 기술 스텍
 
 ### Front-End
 
@@ -33,36 +33,15 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 
-### Back-End (Learning)
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-### Cloud
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rladbswjd061023-bit&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 Most Used Language
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rladbswjd061023-bit&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
+## Contact
 
 <a href="https://www.instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
