@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=kimyunjeong&fontSize=45&fontColor=ffffff"/>
 </p>
 
+---
+
 # 👋 안녕하세요!
 
 ### 금융권 개발 매니저를 목표로 공부하고 있는 김윤정입니다.
