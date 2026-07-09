@@ -35,14 +35,6 @@
 
 ---
 
-## GitHub Stats
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=rladbswjd061023-bit&show_icons=true&theme=tokyonight"
-width="450"
-/>
----
-
 ## Contact
 
 <a href="https://www.instagram.com/yunjeongee_/">
