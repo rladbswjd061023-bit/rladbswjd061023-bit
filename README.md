@@ -37,12 +37,14 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rladbswjd061023-bit&show_icons=true&theme=tokyonight">
-
+<img
+src="https://github-readme-stats.vercel.app/api?username=rladbswjd061023-bit&show_icons=true&theme=tokyonight"
+width="450"
+/>
 ---
 
 ## Contact
 
-<a href="https:///www.instagram.com/yunjeongee_/">
+<a href="https://www.instagram.com/yunjeongee_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
