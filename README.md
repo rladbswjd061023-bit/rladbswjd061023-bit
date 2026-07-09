@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=kim yun jeong&fontSize=45&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=kimyunjeong&fontSize=45&fontColor=ffffff"/>
 </p>
 
 # 👋 안녕하세요!
@@ -37,7 +37,7 @@
 
 ## GitHub Stats
 
-![GitHub stats]([https://github-readme-stats.vercel.app](https://github.com/rladbswjd061023-bit/rladbswjd061023-bit)/api?username=rladbswjd061023-bit&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=rladbswjd061023-bit&show_icons=true&theme=tokyonight">
 
 ---
 
